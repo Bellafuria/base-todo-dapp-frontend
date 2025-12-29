@@ -34,10 +34,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Screenshots
 
-**Connect Wallet Screen:**
+**Todo List DApp Frontend:**
 
-![Connect Wallet Button](https://raw.githubusercontent.com/Bellafuria/base-todo-dapp/main/screenshot-connect.png)
+![Todo List DApp Frontend – подключён кошелёк и готов к загрузке задач](https://raw.githubusercontent.com/Bellafuria/base-bellafuria-portfolio/main/images/TODO%20List%20frontend.jpg)
 
-**Tasks Loaded:**
-
-![Loaded Tasks from Contract](https://raw.githubusercontent.com/Bellafuria/base-todo-dapp/main/screenshot-tasks.png)
