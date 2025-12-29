@@ -1,3 +1,20 @@
+# Todo List DApp Frontend
+
+React + Vite frontend for onchain Todo List on Base.
+
+## Features
+- Connect MetaMask
+- View tasks from contract 0x0EE811aE2D61a20c7739F7036a814582f45F8f1D
+- (WIP: Add task form)
+
+## Run
+npm install
+npm run dev
+
+Contract repo: https://github.com/Bellafuria/base-todo-dapp
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
